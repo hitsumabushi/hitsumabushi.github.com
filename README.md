@@ -1,4 +1,5 @@
 hitsumabushi.github.com
 =======================
 
-pages
+Contents
+* Blog
